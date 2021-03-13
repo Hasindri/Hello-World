@@ -1,5 +1,5 @@
 # Hello-World
 Getting started with Github
 
-I am Hasindri Watawana
+I am Hasindri Watawana from UoM
 
